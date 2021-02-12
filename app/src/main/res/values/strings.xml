@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Usuarios</string>
+
+
+    <string name="usuario">Usuários</string>
+    <string name="consultar">Consultar</string>
+    <string name="texto_usuario">Olá, este aplicativo tem como função listar os usuários através de uma API REST! </string>
+
+
+    <string name="remover">Remover usuário do Aparelho</string>
+
+
+</resources>
